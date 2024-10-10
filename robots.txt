@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://randohme.github.io/sitemap.html.gz
+Sitemap: https://randohme.github.io/app/sitemap.html.gz
+Sitemap: https://randohme.github.io/assets/sitemap.html.gz
+Sitemap: https://randohme.github.io/css/sitemap.html.gz
+Sitemap: https://randohme.github.io/includes/sitemap.html.gz
+Sitemap: https://randohme.github.io/item/sitemap.html.gz
+Sitemap: https://randohme.github.io/src/sitemap.html.gz
